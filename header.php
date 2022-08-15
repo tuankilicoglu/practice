@@ -35,12 +35,10 @@ Sorry, your browser does not support inline SVG.
         </a>
 
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-          <li><a  href="anasayfa.php" class="nav-link px-2 text-secondary">Home</a></li>
-          <li><a href="iletisim_liste.php" class="nav-link px-2 text-white">Kayıt formu</a></li>
-          <li><a href="https://www.mackolik.com/takim/karag%C3%BCmr%C3%BCk/puan-durumu/c3txoz57mu7w9y1jprvnv2flr" class="nav-link px-2 text-white">Fikstür</a></li>
-          <li><a hreflang="en" href="https://www.wulfzsport.com/kategori/karagumruk-sk-urunler" target="blank" class="nav-link px-2 text-white">Forma</a></li>
-          <li><a href="iletisim.php" target="blank" class="nav-link px-2 text-white" target="blank">iletisim</a></li>
-          <li><a href="config.php" target="blank" class="nav-link px-2 text-white" target="blank">test</a></li>
+          <li><a href="anasayfa.php" class="nav-link px-2 text-white">Home</a></li>
+          <li><a href="iletisim_liste.php" class="nav-link px-2 text-white">Subscriptions</a></li>
+          <li><a href="iletisim.php" target="blank" class="nav-link px-2 text-white" target="blank">İletişim</a></li>
+          <li><a href="iletisim.php" target="blank" class="nav-link px-2 text-white" target="blank">LOGIN</a></li>
           
         </ul>
 

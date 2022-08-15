@@ -14,35 +14,12 @@
     <div class="col mb-3">
       <h5>Section</h5>
       <ul class="nav flex-column">
-      <li><a  href="anasayfa.php" class="nav-link px-2 text-secondary">Home</a></li>
+          <li><a  href="anasayfa.php" class="nav-link px-2 text-white">Home</a></li>
           <li><a href="iletisim_post.php" class="nav-link px-2 text-white">Klüp Tarihi</a></li>
-          <li><a href="https://www.mackolik.com/takim/karag%C3%BCmr%C3%BCk/puan-durumu/c3txoz57mu7w9y1jprvnv2flr" class="nav-link px-2 text-white">Fikstür</a></li>
-          <li><a hreflang="en" href="https://www.wulfzsport.com/kategori/karagumruk-sk-urunler" target="blank" class="nav-link px-2 text-white">Forma</a></li>
-          <li><a href="iletisim.php" target="blank" class="nav-link px-2 text-white" target="blank">iletisim</a></li>
+          <li><a href="iletisim.php" target="blank" class="nav-link px-2 text-white" target="blank">İletişim</a></li>
           
       </ul>
     </div>
-
-    <div class="col mb-3">
-      <h5>Section</h5>
-      <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
-      </ul>
-    </div>
-
-    <div class="col mb-3">
-      <h5>Section</h5>
-      <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Home</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Features</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Pricing</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">FAQs</a></li>
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
-      </ul>
-    </div>
+    
   </footer>
 </div>
