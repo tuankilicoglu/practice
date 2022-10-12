@@ -5,7 +5,11 @@
         <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
       </a>
       <p class="text-muted">© 2022</p>
-    </div>
+
+
+
+aidlaidlişaldialişdal
+aişlmasşlaiflal    </div>
 
     <div class="col mb-3">
 
